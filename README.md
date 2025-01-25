@@ -18,7 +18,7 @@ This project is built with :
 ## Installation 📦
 ### To install Django Instagram , follow these steps:
 ## 1. Clone this repository:
->'https://github.com/BurhanMohammad/Django-Instragram.git.git'
+>'https://github.com/AleksVitko/Django-Instragram.git.git'
 ## 2. Navigate to the project directory:
 
 ```bash
