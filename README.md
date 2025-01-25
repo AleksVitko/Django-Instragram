@@ -108,10 +108,6 @@ This project is built with :
 #### Step 3
 
 - 🔃 Create a new pull request.
-## Creadits :
-
-#### Django Instagram  Builder was created by Mohammad Burhan
-
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
